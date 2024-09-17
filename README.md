@@ -1,4 +1,4 @@
-# Mini-Project 6.3 - Customer Segmentation with Clustering
+# Customer Segmentation with Clustering
 
 ## Project Overview
 This project focuses on applying clustering techniques to perform customer segmentation for an e-commerce company using a dataset provided by SAS. The objective is to identify customer groups based on their purchasing behaviour to inform and enhance marketing strategies.
