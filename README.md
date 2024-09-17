@@ -36,11 +36,12 @@ The dataset, provided by SAS, contains 951,668 rows, each representing a product
 
 ## Files in This Repository
 - **Customer Segmentation with Clustering.ipynb:** The Jupyter Notebook containing the full analysis, including data preprocessing, clustering, and visualisation.
+- **Customer Segmentation with Clustering - Summary Report.pdf:** A concise report summarising the methodology, key insights, and recommendations for marketing strategies.
 - **LICENSE:** The license file for the project.
 - *Note:* The raw data is not included to ensure compliance with data privacy standards.
 
 ## Usage
-Open the `Customer Segmentation with Clustering.ipynb` notebook to explore the full analysis, which includes data processing, clustering, and customer segmentation insights.
+Open the `Customer Segmentation with Clustering.ipynb` notebook to explore the full analysis, including data processing, clustering, and customer segmentation insights. Refer to the summary report for an overview of the findings and recommendations.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
